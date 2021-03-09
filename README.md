@@ -5,3 +5,7 @@ One of the classic problem that has been used in the Machine Learning world for 
 ![image](https://user-images.githubusercontent.com/47060506/110422477-7680d780-80c5-11eb-9b26-8f146da5010e.png)
 
 Medium Article link (https://link.medium.com/cOAIpPOEteb)
+
+### NOTE ABOUT THE Notebook Diff:
+
+Usually the jupyter notebooks are unfriendly to diff. So, we have installed nbdime(See https://nbdime.readthedocs.io/en/latest/)
