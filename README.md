@@ -4,4 +4,4 @@ One of the classic problem that has been used in the Machine Learning world for 
 
 ![image](https://user-images.githubusercontent.com/47060506/110422477-7680d780-80c5-11eb-9b26-8f146da5010e.png)
 
-Medium Article link(https://link.medium.com/cOAIpPOEteb)
+Medium Article link (https://link.medium.com/cOAIpPOEteb)
